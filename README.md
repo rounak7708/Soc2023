@@ -1,2 +1,2 @@
 # Soc2023
-Working with competition programming problems 
+Working with competitive programming problems 
